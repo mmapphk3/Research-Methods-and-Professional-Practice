@@ -1,6 +1,10 @@
 ##### Literature Review
 
 
-##### I recently completed a literature review focused on "Deep Learning for Recommender Systems: A Netflix Case Study" by Steck et al. (2021). This review critically assessed the integration of deep learning models into Netflix's recommendation engines, emphasizing how these models have evolved from simpler systems to complex frameworks capable of processing diverse and high-dimensional data. My analysis aimed to dissect the methodologies, applications, and impacts of these advanced algorithms on content personalization, catering to an academic audience interested in machine learning and media technologies.
+##### I recently completed a literature review focused on "Deep Learning for Recommender Systems: A Netflix Case Study" by Steck et al. (2021). This 
+review critically assessed the integration of deep learning models into Netflix's recommendation engines, emphasizing how these models have evolved from
+simpler systems to complex frameworks capable of processing diverse and high-dimensional data. My analysis aimed to dissect the methodologies, 
+applications, and impacts of these advanced algorithms on content personalization, catering to an academic audience interested in machine learning 
+and media technologies.
 
 ##### In conducting this review, I delved into various technical aspects and theoretical implications of deep learning within the context of Netflix's systems. I evaluated the strengths and limitations of the article, identifying gaps in the research such as the need for comparative studies and the exploration of clustering techniques. The process involved extensive research and a thorough understanding of prior recommendation system methods, requiring me to synthesize a range of complex information into a cohesive narrative. This review not only enhanced my comprehension of machine learning applications in digital media but also highlighted the critical role of evolving technologies in enhancing user engagement and satisfaction in streaming platforms.
