@@ -43,7 +43,7 @@ Overall, these quartiles and the median suggest that Diet A is more effective in
 ### Exercise 6.3
 
 <img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/463cf3059f040797bc6da0a1c8bf2d7a2f760d6f/ex6.3.png" alt="Corr Plot 1" style="width: 50%;"> 
-<p>Fig4: Area 1 vs Area 2 </p>
+<p>Fig5: Area 1 vs Area 2 </p>
 
 The frequency and percentage distributions provide insights into the patterns of brand preferences between Area 1 and Area 2. In Area 1, 15.7% of people prefer Brand A, 24.3% choose Brand B, and the majority, 60%, opt for "Other" brands. This indicates that while Brand B is more popular than Brand A in Area 1, a significant portion of the population prefers brands outside of A and B.
 
@@ -53,6 +53,9 @@ Overall, these results suggest that Brand B is the most popular in both areas bu
 ### Chart worksheet
 
 #### Exercise 9.1
+
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/d76a032960cca6e34ee95dc6fd75c5426b60f942/ex9.1.png" alt="Corr Plot 1" style="width: 50%;"> 
+<p>Fig6: Bar Chart: Area 1 vs Area 2 </p>
 
 The bar chart for Area 2 shows that the majority of people, 45.6%, prefer "Other" brands, followed by 33.3% who choose Brand B, and 21.1% who select Brand A. This indicates that while Brand B is relatively popular, more people in Area 2 opt for alternative brands outside of A and B. Brand A has the lowest preference, making it the least favored option among the three categories in this area.
 
