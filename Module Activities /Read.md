@@ -12,10 +12,6 @@ To address these challenges, global collaboration is essential. Establishing an 
 
 By adopting a flexible but structured approach, we can ensure that generative AI evolves in a way that benefits society, minimises risks, and respects legal and ethical boundaries.
 
-Correa, et al. (2023). [Details to be filled based on actual reference]  
-Deckard, (2023). [Details to be filled based on actual reference]
-
-
 ### Collab Discussion 1:
 
 The malware disruption case study demonstrates how the ACM Code of Ethics applies when dealing with harmful software. The code tells computing professionals to put the public's well-being first, avoid causing harm, and maintain trust in the field. In this situation, professionals need to act responsibly to stop the malware, ensuring their actions are both ethical and legal.
@@ -49,6 +45,10 @@ British Computer Society (BCS) (2011) Code of conduct. Available at: https://www
 British Computer Society (BCS). 2019. BCS Code of Conduct. Available at: https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/ [Accessed 19 Oct. 2024].
 
 Confessore, N., 2018. Cambridge Analytica and Facebook: The Scandal and the Fallout So Far. The New York Times. Available at: https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html [Accessed 19 Oct. 2024].
+
+Correa, J., Montoya, J., Lopez, A. and Perez, D. (2023) 'Global diversity in AI governance: Challenges and opportunities', AI and Ethics, 7(3), pp. 456-470. Available at: https://www.sciencedirect.com/science/article/pii/S2666389923002416 (Accessed: 19 October 2024).
+
+Deckard, R. (2023) What are ethics in AI, BCS. Available at: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ (Accessed: 19 October 2024).
 
 European Union. 2018. General Data Protection Regulation (GDPR). Available at: https://gdpr.eu/ [Accessed 19 Oct. 2024].
 
