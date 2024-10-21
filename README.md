@@ -4,10 +4,10 @@ This e-portfolio captures my journey through the Research Methods and Profession
 
 ## Sections
 
-- [Module Activities](https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/dedbc87f6191da683a129a092a5a9823c7c3bde1/Module%20Activities%20/Read.md)
-- [Statistical Activities](https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/dedbc87f6191da683a129a092a5a9823c7c3bde1/Statistical%20Activities%20/Read.md)
-- [Evaluation of Assignments](https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/fe0dd4b25e09af4b13f266382822effde8771878/Evaluation%20of%20Assignments%20/Read.md)
-- [Reflection Piece](https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/fe0dd4b25e09af4b13f266382822effde8771878/Reflective%20Piece%20/Read.md)
+- [Module Activities](./Module%20Activities/Read.md)
+- [Statistical Activities](./Statistical%20Activities/Read.md)
+- [Evaluation of Assignments](./Evaluation%20of%20Assignments/Read.md)
+- [Reflection Piece](./Reflective%20Piece/Read.md)
 
 
 
