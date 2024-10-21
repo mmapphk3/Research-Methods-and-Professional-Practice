@@ -4,7 +4,6 @@ In my literature review on "Deep Learning for Recommender Systems: A Netflix Cas
 
 Throughout this review, I tackled several key points. For instance, I discussed how these advanced models use a wide range of data to better predict what users might like to watch. This is a step up from older methods that couldn't handle as complex user behavior patterns. I also looked at challenges like how these models perform in tests versus real life, which Steck et al. (2021) note as an issue because improvements in tests didn't always mean better user experiences. Addressing these mismatches was crucial for Netflix to refine their systems. Evaluating this study involved not just summarizing their findings but also critically thinking about their impact and what might still be missing, such as deeper studies into how these recommendations work over the long term or across different cultural contexts, which Manyika et al. (2019) suggest could reveal biases.
 
-Putting together this review took a lot of research and understanding how recommendation systems worked before, which helped me appreciate the complexities and advancements in the field. This process not only boosted my knowledge but also sharpened my analytical skills, making it a valuable learning experience in analyzing academic literature.
 
 ### Research Proposal
 
