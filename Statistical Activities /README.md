@@ -2,7 +2,7 @@
 
 #### Exercise 7.1
 
-<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/blob/71e85679c342f2bf0ae74e78672432acc704ed28/ex7.1.png" alt="Agent 1 vs Agent 2" style="width:50%;">
+<img src="https://raw.githubusercontent.com/mmapphk3/Research-Methods-and-Professional-Practice-Module/main/ex7.1.png" alt="Agent 1 vs Agent 2" style="width:50%;">
 <p>Fig1: Agent 1 vs Agent 2</p>
 
 
