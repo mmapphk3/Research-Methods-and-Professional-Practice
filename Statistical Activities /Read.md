@@ -61,6 +61,9 @@ The bar chart for Area 2 shows that the majority of people, 45.6%, prefer "Other
 
 #### Exercise 9.2
 
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/31ecf47f42bda578489d16ee9509a5fdcc814a2a/ex9.2.png" alt="Corr Plot 1" style="width: 50%;"> 
+<p>Fig6: Clustered Bar Chart </p>
+
 The clustered bar chart shows the prevalence of heather species in two locations, Location A and Location B, across three categories: Absent, Sparse, and Abundant. In the Absent category, Location B has a significantly higher prevalence, with around 45% of observations, compared to less than 20% in Location A. For the Sparse category, Location A shows a higher prevalence, with about 40%, while Location B has approximately 30%. Finally, in the Abundant category, Location A dominates, with nearly 50% of observations, compared to just 20% in Location B. Overall, the chart indicates that heather species are more prevalent and abundant in Location A than in Location B.
 
 #### Exercise 9.3
