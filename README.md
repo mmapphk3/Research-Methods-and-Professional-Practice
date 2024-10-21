@@ -4,10 +4,10 @@ This e-portfolio captures my journey through the Research Methods and Profession
 
 ## Sections
 
-- [Module Activities](Module Activities/)
-- [Statistical Activities](Statistical Activities/)
-- [Evaluation of Assignments](Evaluation of Assignments/)
-- [Reflection Piece](Reflection Piece/)
+- [Module Activities](./Module%20Activities/)
+- [Statistical Activities](./Statistical%20Activities/)
+- [Evaluation of Assignments](./Evaluation%20of%20Assignments/)
+- [Reflection Piece](./Reflection%20Piece/)
 
 
 
