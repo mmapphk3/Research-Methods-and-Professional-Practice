@@ -22,6 +22,9 @@ This analysis assumes that the data meet the assumptions of normality and equal 
 
 #### Exercise 6.1
 
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/fe6bc9b59db68796038b4a03b9e30ec7f1f89e7f/ex6.1.png" alt="Corr Plot 1" style="width: 50%;"> 
+<p>Fig1: Diet A vs Diet B </p>
+
 The summary statistics for the two diets show that Diet A has a mean weight loss of 5.341 kg with a standard deviation of 2.536, while Diet B has a mean weight loss of 3.710 kg with a standard deviation of 2.603.
 
 These results indicate that, on average, Diet A leads to greater weight loss compared to Diet B. Specifically, participants on Diet A lost about 1.631 kg more than those on Diet B. Both diets show some variability in outcomes, but the difference in mean weight loss suggests that Diet A is more effective in helping participants reduce weight compared to Diet B.
