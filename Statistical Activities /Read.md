@@ -11,7 +11,7 @@ The one-tailed paired t-test result for determining whether Filter Agent 1 (Con1
 #### Exercise 7.2
 
 <img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/6fb4bf970d390c677bb620384840a403c499e8c3/ex7.2.png" alt="Corr Plot 1" style="width: 50%;"> 
-<p>Fig1: Male Income vs Female Income </p>
+<p>Fig2: Male Income vs Female Income </p>
 
 The obtained independent samples t-statistic is 3.27 with 118 degrees of freedom. The associated one-tailed p-value is  p = 0.0007, indicating that the observed t-value is significant at the 1% level (one-tailed). The sample mean income for males was found to be 52.91, while the mean income for females was 44.23. Therefore, the data provide strong evidence that the underlying mean income for males is significantly higher than that of females by an estimated difference of 52.91 - 44.23 = 8.68.
 
@@ -23,13 +23,16 @@ This analysis assumes that the data meet the assumptions of normality and equal 
 #### Exercise 6.1
 
 <img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/fe6bc9b59db68796038b4a03b9e30ec7f1f89e7f/ex6.1.png" alt="Corr Plot 1" style="width: 50%;"> 
-<p>Fig1: Diet A vs Diet B </p>
+<p>Fig3: Diet A vs Diet B </p>
 
 The summary statistics for the two diets show that Diet A has a mean weight loss of 5.341 kg with a standard deviation of 2.536, while Diet B has a mean weight loss of 3.710 kg with a standard deviation of 2.603.
 
 These results indicate that, on average, Diet A leads to greater weight loss compared to Diet B. Specifically, participants on Diet A lost about 1.631 kg more than those on Diet B. Both diets show some variability in outcomes, but the difference in mean weight loss suggests that Diet A is more effective in helping participants reduce weight compared to Diet B.
 
 #### Exercise 6.2
+
+<img src="https://github.com/mmapphk3/Research-Methods-and-Professional-Practice/blob/d4a983eee3ded4851595f76981784c8f9f462a76/ex6.2.png" alt="Corr Plot 1" style="width: 50%;"> 
+<p>Fig4: Diet A vs Diet B Part 2 </p>
 
 The median weight loss for Diet A is 5.642 kg, while for Diet B it is 3.745 kg, indicating that participants on Diet A generally lost more weight. The interquartile range (IQR) for Diet A is 3.285, compared to 3.4505 for Diet B, showing that the variability in weight loss is similar between the two diets.
 
