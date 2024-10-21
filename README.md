@@ -4,10 +4,10 @@ This e-portfolio captures my journey through the Research Methods and Profession
 
 ## Sections
 
-- [Module Activities](./Module%20Activities/Read.md)
-- [Statistical Activities](./Statistical%20Activities/Read.md)
-- [Evaluation of Assignments](./Evaluation%20of%20Assignments/Read.md)
-- [Reflection Piece](Reflective%20Piece/Read.md)
+- [Module Activities](./Module%20Activities/README.md)
+- [Statistical Activities](./Statistical%20Activities/README.md)
+- [Evaluation of Assignments](./Evaluation%20of%20Assignments/README.md)
+- [Reflection Piece](Reflective%20Piece/README.md)
 
 
 
